@@ -1,0 +1,39 @@
+# Web API
+fastapi
+uvicorn
+
+# LangChain core
+langchain
+langchain-huggingface
+langchain-community
+langchain-openai
+
+# Embeddings (local, offline-friendly)
+sentence-transformers
+
+# Vector database (local replacement for OpenSearch)
+faiss-cpu
+
+# PDF processing
+pypdf
+
+# Data validation
+pydantic
+
+# Local LLM integration
+# ollama
+
+# OpenAI API client
+openai
+
+# Environment variable management
+python-dotenv
+
+# Machine learning libraries for image and model handling
+torch
+transformers
+pillow
+numpy
+
+#database
+boto3
